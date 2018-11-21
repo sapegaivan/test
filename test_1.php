@@ -4,5 +4,8 @@ class test_1{
  public $q2=true;
  public $q133=true;
  public $q4=true;
+     public function acTestr()
+    {
 
+    }
 }
