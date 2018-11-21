@@ -1,4 +1,10 @@
 <?php
-class test_1{
- public $q1=true;
+class test_1
+{
+    public $q1 = true;
+
+    public function acTestr()
+    {
+
+    }
 }
